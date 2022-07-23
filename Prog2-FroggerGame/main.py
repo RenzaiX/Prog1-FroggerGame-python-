@@ -1,10 +1,3 @@
-######################################################
-# Project: <assignment name>
-# UIN: <656538534>
-# repl.it URL: https://replit.com/@MykolaTurchak/Frogger#main.py
- 
-######################################################
-
 # imports
 import turtle
 import random
